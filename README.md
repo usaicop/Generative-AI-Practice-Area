@@ -1,16 +1,16 @@
-# Natural-Language-Processing-Practice-Area
+# Generative-AI-Practice-Area
 
 :seedling: **Our mission**
 
-NLP aims to foster collaboration, knowledge exchange, and innovation among individuals passionate about natural language processing, catering to both newcomers and seasoned professionals in the field of artificial intelligence.
+The Gen AI practice area aims to foster collaboration, knowledge exchange, and innovation among individuals passionate about natural language processing, catering to both newcomers and seasoned professionals in the field of artificial intelligence.
 
 :cherry_blossom: **Who we are**
 
-The NLP practice area is a vibrant online community where AI enthusiasts, researchers, developers, and industry professionals converge to explore the fascinating world of natural language processing. Our community is built on the principles of inclusivity, collaboration, and continuous learning, welcoming individuals from diverse backgrounds and skill levels.
+The Gen AI practice area is a vibrant online community where AI enthusiasts, researchers, developers, and industry professionals converge to explore the fascinating world of natural language processing. Our community is built on the principles of inclusivity, collaboration, and continuous learning, welcoming individuals from diverse backgrounds and skill levels.
 
 :busts_in_silhouette: **Who can join?**
 
-Whether you're a researcher, developer, or industry professional, if you're passionate about natural language processing and eager to collaborate with like-minded individuals, we invite you to join the NLP and be part of our thriving community. Together, let's push the boundaries of NLP and shape the future of responsible AI in government.
+Whether you're a researcher, developer, or industry professional, if you're passionate about natural language processing and eager to collaborate with like-minded individuals, we invite you to join the Gen AI practice area and be part of our thriving community. Together, let's push the boundaries of NLP and shape the future of responsible AI in government.
 
 :writing_hand: **Rules of engagement**
 
