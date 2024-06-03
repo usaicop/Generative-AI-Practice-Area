@@ -10,7 +10,7 @@ The Gen AI practice area is a vibrant online community where AI enthusiasts, res
 
 :busts_in_silhouette: **Who can join?**
 
-Whether you're a researcher, developer, or industry professional, if you're passionate about Generative AI and eager to collaborate with like-minded individuals, we invite you to join the Gen AI practice area and be part of our thriving community. Together, let's push the boundaries of Generative AI and shape the future of responsible AI in government.
+Whether you're a researcher, developer, or industry professional, if you're passionate about Gen AI and eager to collaborate with like-minded individuals, we invite you to join the Gen AI practice area and be part of our thriving community. Together, let's push the boundaries of Gen AI and shape the future of responsible AI in government.
 
 :writing_hand: **Rules of engagement**
 
